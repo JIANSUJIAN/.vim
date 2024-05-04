@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/Users/jiansu/projects/appoint/retell/node/node_modules'
+let g:netrw_dirhist_5='/Users/jiansu/.aws/sso'
+let g:netrw_dirhist_4='/Users/jiansu/projects/appoint/navigation/init-call-app/lumberjack-voice-app/readmes/demo'
+let g:netrw_dirhist_3='/Users/jiansu/projects/appoint/navigation/init-call-app/lumberjack-voice-app/screenshots'
+let g:netrw_dirhist_2='/Users/jiansu/projects/appoint/navigation/init-call-app/voice-javascript-sdk-quickstart-node/ConsoleHowTos/CreateAPIKey'
+let g:netrw_dirhist_1='/Users/jiansu/projects/appoint/navigation/examples/twilio-advanced-demo/three-robot-rhumba'
